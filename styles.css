@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fundo{
+    background-image: linear-gradient(45deg, rgb(15, 145, 231), rgb(245, 245, 245));
+    height: 100vh;
+    color:rgb(41, 33, 33);
+    font-family: 'Times New Roman', Times, Serif;
+}
+.Calculadora{
+    position: absolute;
+    background-color: rgba(rgb(17, 0, 255), 0.7)
+}
